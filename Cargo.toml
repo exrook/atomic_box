@@ -1,0 +1,6 @@
+[package]
+name = "atomic_box"
+version = "0.1.0"
+authors = ["Jacob Hughes <j@distanthills.org>"]
+
+[dependencies]
