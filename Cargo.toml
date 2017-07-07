@@ -2,5 +2,11 @@
 name = "atomic_box"
 version = "0.1.0"
 authors = ["Jacob Hughes <j@distanthills.org>"]
+license = "MIT/Apache-2.0"
+description = "A struct which allows multiple threads to safely update and read from a shared non-nullable pointer to heap data"
+repository = "https://github.com/exrook/atomic_box"
+keywords = ["atomic"]
+categories = ["concurrency"]
+readme = "README.md"
 
 [dependencies]
